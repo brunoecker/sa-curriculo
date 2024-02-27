@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@300&display=swap');
+
+.sub-container-f{
+    background-color: white;
+    margin-top: 2rem;
+    max-width: 60%;
+    display: flex;
+}
+.ctn-left-f{
+    background-color: #c3cbe9;
+    width: 100%;
+}
+.ctn-rigth-f{
+    width: 100%;
+}
+.div-center-left-f{
+    margin: 20px 20px 20px 20px;
+    
+}
+.row-img-f{
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+.column1-left-f{
+    width: 100%;
+}
+.row1-left-f{
+    margin-bottom: 5px;
+width:100%;
+}
+.p-title-left-f{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.row1-inf-left{
+    display: flex;
+    margin-top: 6px;
+}
+.p-left-f{
+    margin-left: 10px;
+}
+.p-inf-left-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.row2-inf-left{
+    display: flex;
+    margin-top: 6px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+.ctn-rigth-f{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.row-name-right-f{
+    font-size: 20px;
+    font-family: 'Arial';
+    font-weight: 900;
+    border-bottom: 4px solid black;
+    margin-right: 15px;
+}
+.row-inf-right-f{
+    margin-top: 25px;
+    border-top: 1px solid black;
+    margin-right: 20px;
+}
+.row-infR-right-f{
+    margin-top: 25px;
+    margin-right: 20px;
+}
+.p-inf1-right-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    width: 100%;
+    font-weight: bold;
+}
+.p-inf5-right-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+.p-inf6-right-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 3px;
+}
+
+.p-inf2-right-f{
+    font-family: Arial;
+    font-size: 11px;
+    width: 100%;
+    text-align: right;
+}
+.p-inf7-right-f{
+    font-family: Arial;
+    font-size: 11px;
+    width: 100%;
+    text-align: right;
+}
+.p-inf3-right-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 3px;
+}
+.p-inf4-right-f{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-right: 2px;
+}
+.row-btn-color{
+    margin: 20px;
+    display: grid;
+}
+.btn-color{
+    margin-top: 7px;
+}
